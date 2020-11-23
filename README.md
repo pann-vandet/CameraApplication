@@ -1,5 +1,6 @@
 "# CameraApplication" 
 
+- Create python virtual environments (venv)
 
 - Install all requirment libraries list in requirements.txt
 
