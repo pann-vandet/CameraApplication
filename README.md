@@ -7,4 +7,4 @@
   https://pjreddie.com/media/files/yolov3.weights
 
 - Play around with this link for yolov3 implementation: https://machinelearningspace.com/yolov3-tensorflow-2-part-1/
-"# Camera Application" 
+
